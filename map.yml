@@ -1,0 +1,6 @@
+map_name: Gilbert-1939-AAE
+games:
+- {game_name: Gilbert-1939-AAE-4P, file_name: Gilbert-1939-AAE-4P.xml}
+- {game_name: Gilbert-1939-AAE-3A, file_name: Gilbert-1939-AAE-6P-3A.xml}
+- {game_name: Gilbert-1939-AAE-6P, file_name: Gilbert-1939-AAE-6P.xml}
+version: 0
